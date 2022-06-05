@@ -11,7 +11,7 @@
 
 -----
 
-### WORKFLOW OF LUNG-CANCER-DETECTION
+### WORKFLOW OF LUNG CANCER DETECTION
 
 - Collecting the Dataset
 - Pre-processing the Dataset
